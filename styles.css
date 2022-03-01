@@ -2,6 +2,10 @@
   font-family: Proxima nova, Roboto, Helvetica now, Futura, Arial sans-serif;
 }
 
+body {
+    background-color: #FFDB58;
+}
+
 h1 {
     color: grey; 
     text-align: left;
