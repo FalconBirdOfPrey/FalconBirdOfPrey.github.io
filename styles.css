@@ -2,6 +2,13 @@
   font-family: Proxima nova, Roboto, Helvetica now, Futura, Arial sans-serif;
 }
 
+div {
+  <!width: 300px;>
+  <!border: 15px solid green;>
+  padding: 5px;
+  <!margin: 20px;>
+}
+
 h1 {
     color: grey; >
     <! background-color: #0057B8; >
