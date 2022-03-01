@@ -15,6 +15,10 @@ h3 {
     text-align: right;
 }
 
+strong {
+    font-weight: bold;
+}
+
 .bluebg {
     color: #FFD700;
     background-color: #0057B8;
