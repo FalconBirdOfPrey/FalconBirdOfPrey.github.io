@@ -1,7 +1,10 @@
 .sans-serif {
   font-family: Proxima nova, Roboto, Helvetica now, Futura, Arial sans-serif;
 }
-
+.blood {
+  font-family: Chiller, Proxima nova, Roboto, Helvetica now, Futura, Arial sans-serif;
+  color: #bb0a1e;
+}
 body {
     background-color: #ffd8d8;
 }
